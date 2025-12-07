@@ -86,7 +86,7 @@ The prototype achieves:
 ### **1. Clone the repository**
 ```bash
 git clone https://github.com/rohankharche34/proxi-track
-cd hand-tracking-poc
+cd proxi-track
 ```
 
 ### **2. Install dependencies**
