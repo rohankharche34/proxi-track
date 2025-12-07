@@ -14,7 +14,9 @@ This POC is built as part of the **Arvyax Internship Assignment**, demonstrating
 
 ## 🎥 Demo Video
 Watch the demo here:  
-https://github.com/rohankharche34/proxi-track/blob/main/demo.mp4
+
+[![Demo Video](demo_thumbnail.png)](demo.mp4)
+
 
 ## 🚀 Features
 
