@@ -12,6 +12,10 @@ This POC is built as part of the **Arvyax Internship Assignment**, demonstrating
 
 ---
 
+## 🎥 Demo Video
+Watch the demo here:  
+https://github.com/rohankharche34/proxi-track/blob/main/demo.mp4
+
 ## 🚀 Features
 
 ### ✅ **1. Real-Time Fingertip Tracking (No ML APIs)**
